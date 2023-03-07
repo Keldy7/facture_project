@@ -2,12 +2,16 @@
 
 This application allows for printing receipts for transactions made in a store. It is developed using JavaFX for the user interface.
 
-
 # Features
 
 View all transactions: The user can view all transactions with all details of each transaction. Transactions can be sorted by date, customer name, total amount, etc.
 Print receipts: The user can print receipts for one or more selected transactions.
 Save transactions: The user can save transactions to a local data file for future use.
+
+# Used technologies
+
+* Java
+* CSS
 
 # Achievement
 
